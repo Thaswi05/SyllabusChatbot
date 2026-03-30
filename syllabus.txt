@@ -1,0 +1,8 @@
+Data Structures:
+Stacks, Queues, Linked List, Trees, Graphs
+
+Operating System:
+Process Management, Scheduling, Deadlock, Memory Management
+
+Database Management System:
+SQL, Normalization, Transactions, Indexing
