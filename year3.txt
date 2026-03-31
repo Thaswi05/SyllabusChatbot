@@ -1,0 +1,43 @@
+Computer Networks:
+
+Computer Network:
+A computer network is a group of interconnected computers that communicate and share resources with each other using communication protocols.
+
+OSI Model:
+The OSI model is a conceptual framework used to understand network communication in seven layers.
+
+TCP/IP:
+TCP/IP is a communication protocol used to connect devices on the internet and transmit data between them.
+
+Software Engineering:
+
+Software Engineering:
+Software engineering is the process of designing, developing, testing, and maintaining software applications.
+
+SDLC:
+Software Development Life Cycle is the process used to develop software systematically in phases such as planning, design, development, testing, and maintenance.
+
+Agile Model:
+Agile is a software development methodology that focuses on iterative development and collaboration.
+
+Web Technologies:
+
+HTML:
+HTML is used to create the structure of web pages.
+
+CSS:
+CSS is used to style and design web pages.
+
+JavaScript:
+JavaScript is used to make web pages interactive.
+
+Machine Learning:
+
+Machine Learning:
+Machine learning is a branch of artificial intelligence that allows systems to learn from data and improve without being explicitly programmed.
+
+Supervised Learning:
+Supervised learning is a type of machine learning where the model is trained using labeled data.
+
+Unsupervised Learning:
+Unsupervised learning is a type of machine learning where the model finds patterns in unlabeled data.

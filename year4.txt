@@ -1,0 +1,37 @@
+Cloud Computing:
+
+Cloud Computing:
+Cloud computing is the delivery of computing services such as storage, servers, databases, networking, and software over the internet.
+
+IaaS:
+Infrastructure as a Service provides virtualized computing resources over the internet.
+
+PaaS:
+Platform as a Service provides a platform for developing and deploying applications.
+
+SaaS:
+Software as a Service provides software applications over the internet.
+
+Cyber Security:
+
+Cyber Security:
+Cyber security is the practice of protecting systems, networks, and data from digital attacks.
+
+Encryption:
+Encryption is the process of converting data into a secure format to prevent unauthorized access.
+
+Firewall:
+A firewall is a network security system that monitors and controls incoming and outgoing network traffic.
+
+Internet of Things:
+
+IoT:
+Internet of Things refers to the network of physical devices connected to the internet that collect and share data.
+
+Sensors:
+Sensors are devices that detect changes in the environment and send data to other devices.
+
+Project Work:
+
+Project:
+A project is a practical implementation of knowledge to solve a real-world problem.

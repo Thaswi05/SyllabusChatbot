@@ -1,0 +1,55 @@
+Engineering Physics:
+
+Kinematics:
+Kinematics is the branch of physics that studies the motion of objects without considering the forces causing the motion.
+
+Laws of Motion:
+Newton's laws of motion explain the relationship between the motion of an object and the forces acting on it.
+
+Work Energy and Power:
+Work is done when a force moves an object. Energy is the ability to do work. Power is the rate of doing work.
+
+Oscillations:
+Oscillation is the repetitive motion of an object about its equilibrium position.
+
+Waves:
+A wave is a disturbance that transfers energy from one place to another without transferring matter.
+
+Optics:
+Optics is the branch of physics that studies light and its behavior.
+
+
+Engineering Mathematics:
+
+Matrices:
+A matrix is a rectangular array of numbers arranged in rows and columns.
+
+Differentiation:
+Differentiation is the process of finding the rate of change of a function.
+
+Integration:
+Integration is the process of finding the area under a curve.
+
+Differential Equations:
+A differential equation is an equation that involves derivatives.
+
+
+Programming in C:
+
+Variables:
+Variables are used to store data values.
+
+Loops:
+Loops are used to repeat a block of code multiple times.
+
+Functions:
+Functions are reusable blocks of code that perform specific tasks.
+
+Arrays:
+An array is a collection of elements stored at contiguous memory locations.
+
+Pointers:
+Pointers are variables that store memory addresses.
+
+Structures:
+Structures are used to store multiple data types in a single variable.

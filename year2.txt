@@ -1,0 +1,58 @@
+Data Structures:
+
+Stack:
+A stack is a linear data structure that follows Last In First Out (LIFO).
+
+Queue:
+A queue is a linear data structure that follows First In First Out (FIFO).
+
+Linked List:
+A linked list is a linear data structure where elements are stored in nodes connected by pointers.
+
+Tree:
+A tree is a hierarchical data structure consisting of nodes connected by edges.
+
+Graph:
+A graph is a collection of nodes connected by edges.
+
+Sorting:
+Sorting is the process of arranging data in a specific order.
+
+Searching:
+Searching is the process of finding an element in a data structure.
+
+
+Operating System:
+
+Process:
+A process is a program in execution.
+
+Process Scheduling:
+Process scheduling is the method by which the CPU decides which process to execute.
+
+Deadlock:
+Deadlock is a situation where processes are unable to proceed because each is waiting for the other.
+
+Memory Management:
+Memory management is the process of managing computer memory efficiently.
+
+File System:
+A file system is used to store and organize files on storage devices.
+
+
+Database Management System:
+
+Database:
+A database is an organized collection of data.
+
+ER Diagram:
+An ER diagram represents entities and relationships in a database.
+
+Normalization:
+Normalization is the process of organizing data to reduce redundancy.
+
+SQL:
+SQL is a language used to manage and query databases.
+
+Transactions:
+A transaction is a sequence of database operations treated as a single unit.
